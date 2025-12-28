@@ -15,10 +15,10 @@ import java.util.List;
 /**
  * AiController
  *
- * @author sonyan
+ * @author smh
  * @version TODO
  * @description
- * @date 28/12/2025 01:06
+ * @date 02/10/2025 01:06
  */
 @RestController
 @RequestMapping("/ai")
