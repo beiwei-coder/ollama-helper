@@ -2,17 +2,17 @@ langchain4j:
   ollama:
     streaming-language-model:
       base-url: http://localhost:11434
-      model-name: qwen:1.8b
+      model-name: qwen1.5-1.8b
     language-model:
       base-url: http://localhost:11434
-      model-name: qwen:1.8b
+      model-name: qwen1.5-1.8b
     chat-model:
       base-url: http://localhost:11434
-      model-name: qwen:1.8b
+      model-name: qwen1.5-1.8b
       timeout: 60
     embedding-model:
       base-url: http://localhost:11434
-      model-name: qwen:1.8b
+      model-name: nomic-embed-text
     streaming-chat-model:
       base-url: http://localhost:11434
-      model-name: qwen:1.8b
+      model-name: qwen1.5-1.8b
